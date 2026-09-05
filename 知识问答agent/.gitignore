@@ -1,0 +1,6 @@
+data/chroma/
+data/models/
+log/
+__pycache__/
+*.pyc
+.venv/

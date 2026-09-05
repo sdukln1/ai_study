@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeCheckProjectSettings">
+    <option name="asyncHistoryTask" value="true" />
+    <option name="branch" value="master" />
+    <option name="disabledLocalRuleIds">
+      <set />
+    </option>
+    <option name="enabledLocalRuleSet">
+      <set>
+        <option value="159bd9e83c294cb991f1bbb8bf3b8e9d" />
+        <option value="2c6a3a998bd242c6b8ed7576d94d1fe9" />
+        <option value="431f366031fa4e6a9522d0bb6b48ab54" />
+        <option value="531e7b1180e04efa8c8c9d3564a9d406" />
+        <option value="5d944820ce884f988cf70d9d104c6919" />
+        <option value="603c6d4b69cd4a0fa9a595da471aa998" />
+        <option value="913d74ed76bd47d08b7bae5e3a191f98" />
+        <option value="9529ce611a124646b4e8d8759de128ee" />
+        <option value="b065a47b2f5544d78810bdfa6962f877" />
+        <option value="b8098b2eb1db467386c49eca0bad795b" />
+        <option value="d9e0707f73014b3392160e58787ae432" />
+        <option value="f803b226b313492bafb017982662fcba" />
+      </set>
+    </option>
+    <option name="remote" value="false" />
+    <option name="repositoryUrl" value="https://github.com/sdukln1/ai_study.git" />
+    <option name="tempRepoUrl" value="https://github.com/sdukln1/ai_study.git" />
+  </component>
+</project>

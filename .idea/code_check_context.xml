@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeCheckProjectContext">
+    <option name="branch" value="" />
+    <option name="checkAvailable" value="true" />
+    <option name="checkState" value="Finished" />
+    <option name="repository" value="" />
+    <option name="timeLine">
+      <TimeLine>
+        <option name="endTime" value="2026-09-01 19:38:36.034" />
+        <option name="startTime" value="2026-09-01 19:38:36.034" />
+      </TimeLine>
+    </option>
+  </component>
+</project>
